@@ -7,17 +7,17 @@ This repository aims to impplement the Virtual Inertia Scheduling.
 We suggest to use conda with python 3.11. Note that if mamba is installed, using mamba can be faster.
 
 1. Create a new environment with python 3.11
-```bash
-conda create -n vis python==3.11
-```
-1. Activate the environment
-```bash
-conda activate vis
-```
-1. Install dependencies
-```bash
-conda install --file requirements.txt
-```
+    ```bash
+    conda create -n vis python==3.11
+    ```
+2. Activate the environment
+    ```bash
+    conda activate vis
+    ```
+3. Install dependencies
+    ```bash
+    conda install --file requirements.txt
+    ```
 
 # Reference
 
